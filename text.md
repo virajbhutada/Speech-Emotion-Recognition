@@ -1,5 +1,4 @@
-# Speech Emotion Recognition - Text File
-
+# Speech Emotion Recognition 
 ---
 
 **Problem Statement:**
@@ -21,6 +20,8 @@ This project revolves around the creation of a dependable speech-emotion recogni
 3. **Machine Learning Integration:** Integrate machine learning algorithms to process acoustic features and construct a resilient model for emotion recognition.
 
 4. **Performance Evaluation:** Utilize appropriate evaluation metrics to gauge the model's accuracy and efficacy in identifying various emotions from speech signals.
+
+---
 
 **Key Deliverables:**
 
