@@ -11,25 +11,28 @@ The primary objective of this endeavor is to devise a robust system for speech e
 
 This project revolves around the creation of a dependable speech-emotion recognition system. Leveraging advanced signal processing techniques and machine learning methodologies, the project endeavors to meticulously dissect the acoustic characteristics of speech signals. The overarching aim is to facilitate the precise classification of emotions articulated in spoken language.
 
+---
+
 **Project Objectives:**
 
-1. **Emotion Classification:** Develop an intricate speech emotion recognition model proficient in accurately classifying emotions conveyed in spoken language, encompassing happiness, sadness, anger, fear, and beyond.
-
-2. **Acoustic Feature Analysis:** Employ signal processing methodologies to extract pertinent acoustic features from speech signals, thereby laying the groundwork for emotion classification.
-
-3. **Machine Learning Integration:** Integrate machine learning algorithms to process acoustic features and construct a resilient model for emotion recognition.
-
-4. **Performance Evaluation:** Utilize appropriate evaluation metrics to gauge the model's accuracy and efficacy in identifying various emotions from speech signals.
+| Objective                              | Description                                                                                                               |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Emotion Classification                | Develop an intricate model proficient in accurately classifying emotions in spoken language.                               |
+| Acoustic Feature Analysis             | Employ signal processing techniques to extract pertinent acoustic features from speech signals.                            |
+| Machine Learning Integration          | Integrate machine learning algorithms to process acoustic features and construct a resilient model for emotion recognition. |
+| Performance Evaluation                | Utilize appropriate evaluation metrics to gauge the model's accuracy and efficacy in identifying various emotions.         |
 
 ---
 
 **Key Deliverables:**
 
-1. A refined speech emotion recognition model capable of adeptly categorizing emotions in spoken language.
-2. Extensive documentation delineating the extraction of acoustic features, model architecture, and evaluation methodologies.
-3. A comprehensive codebase encompassing signal processing scripts, machine learning algorithms, and pertinent tools utilized in model development.
-4. A user guide furnishing instructions for leveraging the speech emotion recognition system effectively.
-5. Evaluation reports showcasing the model's accuracy, performance, and aptitude to discern different emotions in speech.
+| Deliverable                           | Description                                                                                                         |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Well-Trained Model                   | Develop a refined speech emotion recognition model capable of adeptly categorizing emotions in spoken language.       |
+| Comprehensive Documentation          | Prepare extensive documentation delineating the extraction of acoustic features, model architecture, and methodologies. |
+| Complete Codebase                    | Assemble a comprehensive codebase encompassing all necessary scripts, algorithms, and tools used in model development. |
+| User Guide                           | Create a user guide furnishing clear instructions for leveraging the speech emotion recognition system effectively.  |
+| Evaluation Reports                   | Compile evaluation reports showcasing the model's accuracy, performance, and aptitude in discerning different emotions. |
 
 This initiative tackles the challenge of emotion recognition from speech, furnishing a valuable tool for various applications such as sentiment analysis, virtual assistants, and emotion-aware systems.
 
