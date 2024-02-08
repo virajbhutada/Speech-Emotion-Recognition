@@ -1,10 +1,12 @@
 # Speech Emotion Recognition
+[![Watch the video](https://img.youtube.com/vi/QkSe113tZsA/maxresdefault.jpg)](https://youtu.be/QkSe113tZsA)
 
 ---
 
 ## Problem Statement:
 
 The objective of this project is to develop a robust speech-emotion recognition system capable of accurately classifying the emotional states conveyed in spoken language. By analyzing the acoustic features of speech signals, the system should be able to categorize emotions such as happiness, sadness, anger, fear, and more.
+[![Watch the video](https://img.youtube.com/vi/QkSe113tZsA/maxresdefault.jpg)](https://youtu.be/QkSe113tZsA)
 
 ---
 
