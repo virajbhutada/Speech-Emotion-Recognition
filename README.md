@@ -42,7 +42,7 @@ This project addresses the challenge of recognizing emotions from speech, offeri
 
 ## Project Highlights
 
-Throughout this project, we embarked on a journey to develop a robust speech-emotion recognition system. The key milestones and achievements are summarized below:
+Throughout this project, we developed a robust speech-emotion recognition system. The key milestones and achievements are summarized below:
 
 1. **Data Collection and Preprocessing:**
    
