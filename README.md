@@ -4,15 +4,16 @@
 
 ---
 
+
 ## Problem Statement:
 
-The objective of this project is to develop a robust speech-emotion recognition system capable of accurately classifying the emotional states conveyed in spoken language. By analyzing the acoustic features of speech signals, the system should be able to categorize emotions such as happiness, sadness, anger, fear, and more.
+The project aims to develop a robust speech-emotion recognition system capable of accurately classifying the emotional states conveyed in spoken language. By analyzing the acoustic features of speech signals, the system should be able to categorize emotions such as happiness, sadness, anger, fear, and more.
 
 ---
 
 ## Description
 
-This project focuses on constructing a reliable speech-emotion recognition system using advanced signal processing and machine learning techniques. The primary goal is to analyze the acoustic characteristics of speech signals, enabling precise classification of emotions expressed in spoken language.
+This project uses advanced signal processing and machine learning techniques to construct a reliable speech-emotion recognition system. The primary goal is to analyze the acoustic characteristics of speech signals, enabling precise classification of emotions expressed in spoken language.
 
 **Project Objectives:**
 
@@ -32,7 +33,7 @@ This project focuses on constructing a reliable speech-emotion recognition syste
    
 3. **Complete Codebase:** A comprehensive codebase, including signal processing scripts, machine learning algorithms, and related tools used in model development.
    
-4. **User Guide:** A user guide providing clear instructions for utilizing the speech emotion recognition system effectively.
+4. **User Guide:** A user guide provides clear instructions for effectively utilizing the speech-emotion recognition system.
    
 5. **Evaluation Reports:** Evaluation reports showcasing the model's accuracy, performance, and capability to recognize different emotions in speech.
 
